@@ -1,5 +1,5 @@
 {
-	"autor": "Adeosun Olamide",
+	"author": "Adeosun Olamide",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -7,6 +7,9 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
+	},
+	"engines": {
+		"node": "16.16.0"
 	},
 	"repository": {
 		"type": "git",
